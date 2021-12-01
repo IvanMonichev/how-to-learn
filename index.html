@@ -1,18 +1,50 @@
 <!DOCTYPE html>
 <html lang="ru">
+
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Страница про соврменные подходы обучения в жизни">
+  <meta name="keywords" content="Учёба, обучение, методика">
+  <meta name="author" content="Ivan Monichev">
+  <link rel="stylesheet" href="./styles/normalize.css">
+  <link rel="stylesheet" href="./styles/style.css">
   <title>Научиться учиться</title>
 </head>
-<body>
-  <h1>Test Git4</h1>
-  <div class="page">
-    <header class="header">
 
+<body>
+  <!-- Контейнер всей страницы с минимальной шириной 1100px и
+    максимальной шириной 1600px. -->
+  <div class="page">
+
+    <!-- Шапка сайта, где расположены: логотип, заголовок, подзаголовок, а также илюстрация.  -->
+    <header class="header">
+      <img src="./images/logo_place_header.svg" alt="Логотип «Яндекс-Практикум»." class="logo logo_place_header">
+      <h1 class="header__title">Научиться учиться</h1>
+      <p class="header__subtitle">Какие современные и эффективные подходы к обучению вы можете использовать в своей
+        жизни?
+        <a href="#" class="header__link">Узнать →</a>
+      </p>
+      <img src="./images/header-image.png" alt="Фрагмент из картины «Опять двойка», автор Фёдор Павлович Решетников."
+        class="header__main-ullustration">
+      <div class="header__square-pic"></div>
     </header>
+
     <main class="content">
+
       <section class="description">
+        <div class="two-columns">
+          <h2 class="two-columns__brief">Главные проблемы в обучении</h2>
+          <div class="two-columns__main-text">
+            <p class="two-columns__paragraph two-columns_margin-bottom">Ни в школе, ни в институте нас не учат тому, как правильно изучать материал. Мы готовимся к экзаменам и
+              учим билеты. Мы тренируемся решать однообразные задачи, чтобы лучше сдать тест, но часто в итоге это не
+              дает нам реального знания. Зубрежка быстро выветривается и не приносит пользы.</p>
+            <p class="two-columns__paragraph two-columns_margin-bottom"><span class="two-columns_span-accent">Вывод:</span> учиться тоже нужно уметь, но почему-то этому мало где учат. Что с этим делать?</p>
+            <p class="two-columns__paragraph">Конкретные техники и упражнения помогают изменить подход к обучению, сделать его эффективным и
+              захватывающим. Эти же техники применяются на примере обучения в Практикуме.</p>
+          </div>
+        </div>
       </section>
 
       <section class="digits">
@@ -29,4 +61,5 @@
     </footer>
   </div>
 </body>
+
 </html>
