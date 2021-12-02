@@ -294,13 +294,11 @@
 
 .footer {
   background-color: #1f1f1f;
-  min-height: 350px;
-  border: 1px dotted blue;
   padding: 60px 0 40px 0;
 }
 
 .footer__columns {
-  border: 1px dotted orange;
+  min-height: 350px;
   display: flex;
   width: 90%;
   margin: 0 auto;
@@ -330,7 +328,6 @@
 .footer__column_content_info {
   display: flex;
   flex-direction: column;
-  justify-content: space-around;
 }
 
 .footer__column-heading {
