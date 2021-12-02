@@ -15,10 +15,6 @@
   font-family: "Helvetica Neue", Arial, sans-serif;
 }
 
-/* Модификаторы */
-
-
-
 /* Шапка сайта */
 .header {
   position: relative;
@@ -80,8 +76,6 @@
   top: 64px;
   right: 0;
 }
-
-
 
 /* Секция description */
 
