@@ -14,7 +14,7 @@
 3. Адаптировать сайт под мобильные приложения.
 
 ___
-# Learn «How to Learn»
+# Site «How to Learn»
 
 **The website "How to Learn"** is a simple one-page website that was created to consolidate practical skills in site layout. **HTML** and **CSS** technologies were applied.
 
