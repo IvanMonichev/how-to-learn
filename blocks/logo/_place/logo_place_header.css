@@ -6,9 +6,10 @@
   width: 183px;
   height: 32px;
   background-image: url(../../../images/logo/logo_place_header.svg);
+  transition: opacity .6s, transform .6s ease-in-out;
 }
 
 .logo_place_header:hover {
   opacity: 0.7;
-  transition: opacity 1s;
+  transform: scale(0.9);
 }
