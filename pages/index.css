@@ -1,6 +1,9 @@
 /* Vendor import */
 @import url(../vendor/normalize.css);
 
+/* Keyframes */
+@import url(../../rotation/rotation.css);
+
 /* Block logo */
 @import url(../blocks/logo/_place/logo_place_header.css);
 @import url(../blocks/logo/_place/logo_place_footer.css);
