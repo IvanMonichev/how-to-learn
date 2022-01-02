@@ -1,5 +1,5 @@
 # Сайт «Научиться учиться»
-______
+
 **Сайт «Научиться учиться»** – это простой одностраничный сайт, который создавался для закрепления практических навыков по вёрстке сайтов. Были применены такие технологии, как **HTML**, **CSS**.
 
 В проектной работе № 2 сайт был доработан:
@@ -12,3 +12,19 @@ ______
 1. Добавить секцию с формой обратной связи.
 2. Добавить больше информации про методологию обучения.
 3. Адаптировать сайт под мобильные приложения.
+
+___
+# Learn «How to Learn»
+
+**The website "How to Learn"** is a simple one-page website that was created to consolidate practical skills in site layout. **HTML** and **CSS** technologies were applied.
+
+In project work No. 2, the site was modified:
+* decorative background figures were animated, link animations were added;
+* added new sections;
+* the file structure has been changed – styles and images have been moved to separate folders according to the BEM (Nested) methodology;
+* was used Integration using API technology.
+
+Plans for completion:
+1. Add a section with a feedback form.
+2. Add more information about the training methodology.
+3. Adapt the website to mobile applications.
