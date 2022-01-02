@@ -2,7 +2,7 @@
 @import url(../vendor/normalize.css);
 
 /* Keyframes */
-@import url(../../rotation/rotation.css);
+@import url(../blocks/rotation/rotation.css);
 
 /* Block logo */
 @import url(../blocks/logo/_place/logo_place_header.css);
