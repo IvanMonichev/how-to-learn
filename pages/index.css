@@ -36,7 +36,6 @@
 @import url(../blocks/cards/__description/card__description.css);
 
 /* Section Video */
-@import url(../blocks/video/video.css);
 @import url(../blocks/video/__iframes/video__iframes.css);
 @import url(../blocks/video/__iframe/video__iframe.css);
 
